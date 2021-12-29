@@ -7,4 +7,4 @@ La crise sanitaire actuelle nous pousse à utiliser de plus en plus des gels hyd
 Le code sera réalisé a l'iade du module fenics (https://fenicsproject.org). 
 Ce projet s'einscrit dans le cursus d'ingénieur CentraleSupélec et du cours d'EDP (Equations aux dérivées partielles) 
 
-Tout est fourni dans le notebook du repository.(Explications et fonctionnements) 
+Tout est fourni dans le notebook PJT_EDP_Briet.ipynb  .(Explications et fonctionnements) 
